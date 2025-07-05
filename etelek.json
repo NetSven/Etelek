@@ -3,45 +3,108 @@
     "id": 1,
     "nev": "Szarvaspörkölt",
     "ar": "13£",
-    "suly": "0.55 kg",
-    "kategoria": "Főtt étel",
-    "kepNeve": "szarvasporkolt",
-    "leiras": "Szaftos, vörösboros szarvaspörkölt házias ízekkel."
+    "suly": "0.55kg",
+    "kategoria": "Vadhús",
+    "kepNeve": "szarvasporkolt.jpg",
+    "leiras": "Klasszikus magyaros pörkölt szarvashúsból."
   },
   {
     "id": 2,
     "nev": "Őzpörkölt",
     "ar": "14£",
-    "suly": "0.55 kg",
-    "kategoria": "Főtt étel",
-    "kepNeve": "ozporkolt",
-    "leiras": "Fűszeres őzpörkölt hagyományos módon készítve."
+    "suly": "0.55kg",
+    "kategoria": "Vadhús",
+    "kepNeve": "ozporkolt.jpg",
+    "leiras": "Lágy, szaftos őzhúsból készült pörkölt."
   },
   {
     "id": 3,
     "nev": "Szarvasgulyás",
     "ar": "13£",
-    "suly": "1 kg",
-    "kategoria": "Leves",
-    "kepNeve": "szarvasgulyas",
-    "leiras": "Gazdag, sűrű szarvasgulyás csipetkével."
+    "suly": "1kg",
+    "kategoria": "Vadhús",
+    "kepNeve": "szarvasgulyas.jpg",
+    "leiras": "Gazdagon fűszerezett gulyás szarvashúsból."
   },
   {
     "id": 4,
     "nev": "Nyúlpörkölt",
     "ar": "12£",
-    "suly": "0.55 kg",
-    "kategoria": "Főtt étel",
-    "kepNeve": "nyulporkolt",
-    "leiras": "Zamatos, omlós nyúlpörkölt friss kenyérrel ajánlva."
+    "suly": "0.55kg",
+    "kategoria": "Vadhús",
+    "kepNeve": "nyulporkolt.jpg",
+    "leiras": "Könnyű, omlós nyúlpörkölt hagyományos módon."
   },
   {
     "id": 5,
     "nev": "Csülkös pacalpörkölt",
     "ar": "12£",
-    "suly": "0.75 kg",
-    "kategoria": "Főtt étel",
-    "kepNeve": "csulkospacal",
-    "leiras": "Igazi magyar különlegesség, csülökkel gazdagítva."
+    "suly": "0.75kg",
+    "kategoria": "Disznóhús",
+    "kepNeve": "csulkos_pacal.jpg",
+    "leiras": "Igazi ínyencség: csülökkel dúsított pacalpörkölt."
+  },
+  {
+    "id": 6,
+    "nev": "Szarvas bolognai",
+    "ar": "12£",
+    "suly": "0.55kg",
+    "kategoria": "Vadhús",
+    "kepNeve": "szarvas_bolognai.jpg",
+    "leiras": "Bolognai szósz szarvashúsból, különleges ízvilággal."
+  },
+  {
+    "id": 7,
+    "nev": "Sertés pörkölt",
+    "ar": "12£",
+    "suly": "0.55kg",
+    "kategoria": "Disznóhús",
+    "kepNeve": "sertesporkolt.jpg",
+    "leiras": "Klasszikus magyar pörkölt sertéshúsból."
+  },
+  {
+    "id": 8,
+    "nev": "Bableves füstölt hússal",
+    "ar": "13£",
+    "suly": "1kg",
+    "kategoria": "Leves",
+    "kepNeve": "bableves.jpg",
+    "leiras": "Laktató babgulyás füstölt hússal gazdagon."
+  },
+  {
+    "id": 9,
+    "nev": "Székely káposzta",
+    "ar": "12£",
+    "suly": "0.75kg",
+    "kategoria": "Disznóhús",
+    "kepNeve": "szekelykaposzta.jpg",
+    "leiras": "Savanyú káposztás pörkölt tejfölösen tálalva."
+  },
+  {
+    "id": 10,
+    "nev": "Töltött káposzta",
+    "ar": "12£",
+    "suly": "0.75kg",
+    "kategoria": "Disznóhús",
+    "kepNeve": "toltottkaposzta.jpg",
+    "leiras": "Hagyományos töltött káposzta, füstölt ízekkel."
+  },
+  {
+    "id": 11,
+    "nev": "Pulyka tokány",
+    "ar": "12£",
+    "suly": "0.55kg",
+    "kategoria": "Szárnyas",
+    "kepNeve": "pulykatokany.jpg",
+    "leiras": "Zöldséges tokány könnyű pulykahússal."
+  },
+  {
+    "id": 12,
+    "nev": "Sertés tokány",
+    "ar": "12£",
+    "suly": "0.55kg",
+    "kategoria": "Disznóhús",
+    "kepNeve": "sertestokany.jpg",
+    "leiras": "Szaftos tokány magyaros fűszerezéssel."
   }
 ]
