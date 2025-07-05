@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "nev": "Szarvaspörkölt",
+    "ar": "13£",
+    "suly": "0.55 kg",
+    "kategoria": "Főtt étel",
+    "kepNeve": "szarvasporkolt",
+    "leiras": "Szaftos, vörösboros szarvaspörkölt házias ízekkel."
+  },
+  {
+    "id": 2,
+    "nev": "Őzpörkölt",
+    "ar": "14£",
+    "suly": "0.55 kg",
+    "kategoria": "Főtt étel",
+    "kepNeve": "ozporkolt",
+    "leiras": "Fűszeres őzpörkölt hagyományos módon készítve."
+  },
+  {
+    "id": 3,
+    "nev": "Szarvasgulyás",
+    "ar": "13£",
+    "suly": "1 kg",
+    "kategoria": "Leves",
+    "kepNeve": "szarvasgulyas",
+    "leiras": "Gazdag, sűrű szarvasgulyás csipetkével."
+  },
+  {
+    "id": 4,
+    "nev": "Nyúlpörkölt",
+    "ar": "12£",
+    "suly": "0.55 kg",
+    "kategoria": "Főtt étel",
+    "kepNeve": "nyulporkolt",
+    "leiras": "Zamatos, omlós nyúlpörkölt friss kenyérrel ajánlva."
+  },
+  {
+    "id": 5,
+    "nev": "Csülkös pacalpörkölt",
+    "ar": "12£",
+    "suly": "0.75 kg",
+    "kategoria": "Főtt étel",
+    "kepNeve": "csulkospacal",
+    "leiras": "Igazi magyar különlegesség, csülökkel gazdagítva."
+  }
+]
